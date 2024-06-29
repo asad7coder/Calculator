@@ -1,0 +1,18 @@
+body{
+  background-color: black !important;
+}
+.container{
+  margin-top: 20px;
+  width: 300px !important;
+  border: 1px solid white;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.mainHeading{
+  color: white;
+}
+input{
+  width: 90%;
+  padding: 9px;
+
+}
